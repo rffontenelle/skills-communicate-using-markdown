@@ -1,4 +1,6 @@
-# Heading 1
+# Heading 1 - Image
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ## Heading 2
 
